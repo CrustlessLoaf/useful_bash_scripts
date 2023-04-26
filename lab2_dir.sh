@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# moves the sub-directories in a directory that match sub-directories in another directory (a filter directory), and moves the matching files into the desired directory
 # Define the source and destination directories
 src_dir="/home/crustless/Downloads/LaboratoryProj/LaboratoryProject"
 dest_dir="/home/crustless/Documents/Personal/University/Graduate/5th_term_Mesc/TA_ECE3331/Lab_Marking/Lab2"
